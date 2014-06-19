@@ -1,0 +1,1283 @@
+80
+
+0
+13
+    Bottle 0.908
+    Bottle 0.388
+      Bowl 0.368
+       Box 0.676
+       Can 0.808
+    Carton 0.288
+       Cup 0.252
+       Mug 0.652
+  SprayCan 0.28
+       Tin 0.956
+       Tub 0.752
+       Tub 0.56
+      Tube 0.512
+
+1
+13
+    Bottle 0.724
+    Bottle 0.532
+      Bowl 0.56
+       Box 0.852
+       Can 0.752
+    Carton 0.972
+       Cup 0.8
+       Mug 0.372
+  SprayCan 0.576
+       Tin 0.936
+       Tub 0.432
+       Tub 0.532
+      Tube 0.916
+
+2
+13
+    Bottle 0.252
+    Bottle 0.916
+      Bowl 0.404
+       Box 0.964
+       Can 0.756
+    Carton 0.5
+       Cup 0.292
+       Mug 0.456
+  SprayCan 0.404
+       Tin 0.736
+       Tub 0.524
+       Tub 0.364
+      Tube 0.5
+
+3
+13
+    Bottle 0.528
+    Bottle 0.232
+      Bowl 0.272
+       Box 0.376
+       Can 0.444
+    Carton 0.688
+       Cup 0.724
+       Mug 0.536
+  SprayCan 0.24
+       Tin 0.212
+       Tub 0.264
+       Tub 0.32
+      Tube 0.964
+
+4
+13
+    Bottle 0.268
+    Bottle 0.26
+      Bowl 0.336
+       Box 0.504
+       Can 0.492
+    Carton 0.236
+       Cup 0.628
+       Mug 0.44
+  SprayCan 0.884
+       Tin 0.816
+       Tub 0.952
+       Tub 0.888
+      Tube 0.216
+
+5
+13
+    Bottle 0.62
+    Bottle 0.388
+      Bowl 0.788
+       Box 0.472
+       Can 0.308
+    Carton 0.972
+       Cup 0.536
+       Mug 0.28
+  SprayCan 0.408
+       Tin 0.904
+       Tub 0.612
+       Tub 0.944
+      Tube 0.52
+
+6
+13
+    Bottle 0.936
+    Bottle 0.388
+      Bowl 0.56
+       Box 0.476
+       Can 0.46
+    Carton 0.764
+       Cup 0.86
+       Mug 0.6
+  SprayCan 0.384
+       Tin 0.936
+       Tub 0.344
+       Tub 0.98
+      Tube 0.828
+
+7
+13
+    Bottle 0.304
+    Bottle 0.532
+      Bowl 0.252
+       Box 0.5
+       Can 0.676
+    Carton 0.304
+       Cup 0.36
+       Mug 0.752
+  SprayCan 0.54
+       Tin 0.52
+       Tub 0.244
+       Tub 0.296
+      Tube 0.84
+
+8
+13
+    Bottle 0.216
+    Bottle 0.456
+      Bowl 0.34
+       Box 0.704
+       Can 0.768
+    Carton 0.224
+       Cup 0.672
+       Mug 0.58
+  SprayCan 0.568
+       Tin 0.664
+       Tub 0.244
+       Tub 0.52
+      Tube 0.536
+
+9
+13
+    Bottle 0.48
+    Bottle 0.292
+      Bowl 0.692
+       Box 0.668
+       Can 0.356
+    Carton 0.584
+       Cup 0.988
+       Mug 0.892
+  SprayCan 0.612
+       Tin 0.744
+       Tub 0.664
+       Tub 0.74
+      Tube 0.904
+
+10
+13
+    Bottle 0.44
+    Bottle 0.852
+      Bowl 0.828
+       Box 0.972
+       Can 0.26
+    Carton 0.628
+       Cup 0.652
+       Mug 0.776
+  SprayCan 0.552
+       Tin 0.292
+       Tub 0.744
+       Tub 0.724
+      Tube 0.476
+
+11
+13
+    Bottle 0.276
+    Bottle 0.94
+      Bowl 0.3
+       Box 0.484
+       Can 0.428
+    Carton 0.912
+       Cup 0.724
+       Mug 0.804
+  SprayCan 0.424
+       Tin 0.756
+       Tub 0.616
+       Tub 0.744
+      Tube 0.216
+
+12
+13
+    Bottle 0.904
+    Bottle 0.98
+      Bowl 0.7
+       Box 0.804
+       Can 0.748
+    Carton 0.864
+       Cup 0.712
+       Mug 0.456
+  SprayCan 0.252
+       Tin 0.8
+       Tub 0.424
+       Tub 0.792
+      Tube 0.676
+
+13
+13
+    Bottle 0.896
+    Bottle 0.396
+      Bowl 0.776
+       Box 0.608
+       Can 0.768
+    Carton 0.7
+       Cup 0.648
+       Mug 0.284
+  SprayCan 0.748
+       Tin 0.54
+       Tub 0.232
+       Tub 0.368
+      Tube 0.54
+
+14
+13
+    Bottle 0.968
+    Bottle 0.932
+      Bowl 0.824
+       Box 0.86
+       Can 0.372
+    Carton 0.848
+       Cup 0.624
+       Mug 0.236
+  SprayCan 0.308
+       Tin 0.284
+       Tub 0.276
+       Tub 0.876
+      Tube 0.592
+
+15
+13
+    Bottle 0.356
+    Bottle 0.412
+      Bowl 0.332
+       Box 0.612
+       Can 0.824
+    Carton 0.576
+       Cup 0.444
+       Mug 0.36
+  SprayCan 0.316
+       Tin 0.8
+       Tub 0.964
+       Tub 0.476
+      Tube 0.376
+
+16
+13
+    Bottle 0.68
+    Bottle 0.392
+      Bowl 0.896
+       Box 0.556
+       Can 0.764
+    Carton 0.708
+       Cup 0.552
+       Mug 0.276
+  SprayCan 0.868
+       Tin 0.952
+       Tub 0.716
+       Tub 0.784
+      Tube 0.856
+
+17
+13
+    Bottle 0.644
+    Bottle 0.62
+      Bowl 0.788
+       Box 0.884
+       Can 0.556
+    Carton 0.2
+       Cup 0.516
+       Mug 0.964
+  SprayCan 0.816
+       Tin 0.408
+       Tub 0.904
+       Tub 0.24
+      Tube 0.88
+
+18
+13
+    Bottle 0.384
+    Bottle 0.492
+      Bowl 0.824
+       Box 0.292
+       Can 0.224
+    Carton 0.764
+       Cup 0.292
+       Mug 0.48
+  SprayCan 0.888
+       Tin 0.736
+       Tub 0.62
+       Tub 0.56
+      Tube 0.828
+
+19
+13
+    Bottle 0.984
+    Bottle 0.828
+      Bowl 0.624
+       Box 0.728
+       Can 0.4
+    Carton 0.224
+       Cup 0.704
+       Mug 0.296
+  SprayCan 0.54
+       Tin 0.9
+       Tub 0.98
+       Tub 0.92
+      Tube 0.352
+
+20
+13
+    Bottle 0.476
+    Bottle 0.852
+      Bowl 0.464
+       Box 0.472
+       Can 0.812
+    Carton 0.444
+       Cup 0.644
+       Mug 0.636
+  SprayCan 0.58
+       Tin 0.504
+       Tub 0.652
+       Tub 0.636
+      Tube 0.468
+
+21
+13
+    Bottle 0.492
+    Bottle 0.596
+      Bowl 0.208
+       Box 0.808
+       Can 0.248
+    Carton 0.584
+       Cup 0.788
+       Mug 0.476
+  SprayCan 0.696
+       Tin 0.332
+       Tub 0.436
+       Tub 0.7
+      Tube 0.68
+
+22
+13
+    Bottle 0.388
+    Bottle 0.896
+      Bowl 0.396
+       Box 0.42
+       Can 0.428
+    Carton 0.424
+       Cup 0.86
+       Mug 0.272
+  SprayCan 0.888
+       Tin 0.396
+       Tub 0.98
+       Tub 0.612
+      Tube 0.532
+
+23
+13
+    Bottle 0.34
+    Bottle 0.236
+      Bowl 0.472
+       Box 0.996
+       Can 0.72
+    Carton 0.884
+       Cup 0.392
+       Mug 0.792
+  SprayCan 0.676
+       Tin 0.9
+       Tub 0.768
+       Tub 0.76
+      Tube 0.912
+
+24
+13
+    Bottle 0.772
+    Bottle 0.516
+      Bowl 0.912
+       Box 0.48
+       Can 0.648
+    Carton 0.612
+       Cup 0.716
+       Mug 0.604
+  SprayCan 0.944
+       Tin 0.512
+       Tub 0.748
+       Tub 0.724
+      Tube 0.252
+
+25
+13
+    Bottle 0.96
+    Bottle 0.964
+      Bowl 0.764
+       Box 0.48
+       Can 0.28
+    Carton 0.504
+       Cup 0.292
+       Mug 0.62
+  SprayCan 0.684
+       Tin 0.408
+       Tub 0.284
+       Tub 0.448
+      Tube 0.704
+
+26
+13
+    Bottle 0.392
+    Bottle 0.596
+      Bowl 0.288
+       Box 0.476
+       Can 0.724
+    Carton 0.888
+       Cup 0.224
+       Mug 0.94
+  SprayCan 0.516
+       Tin 0.576
+       Tub 0.436
+       Tub 0.964
+      Tube 0.5
+
+27
+13
+    Bottle 0.54
+    Bottle 0.744
+      Bowl 0.676
+       Box 0.62
+       Can 0.496
+    Carton 0.396
+       Cup 0.72
+       Mug 0.284
+  SprayCan 0.972
+       Tin 0.744
+       Tub 0.796
+       Tub 0.88
+      Tube 0.208
+
+28
+13
+    Bottle 0.884
+    Bottle 0.708
+      Bowl 0.836
+       Box 0.976
+       Can 0.204
+    Carton 0.884
+       Cup 0.888
+       Mug 0.688
+  SprayCan 0.348
+       Tin 0.84
+       Tub 0.82
+       Tub 0.592
+      Tube 0.588
+
+29
+13
+    Bottle 0.368
+    Bottle 0.692
+      Bowl 0.68
+       Box 0.312
+       Can 0.596
+    Carton 0.72
+       Cup 0.292
+       Mug 0.984
+  SprayCan 0.552
+       Tin 0.752
+       Tub 0.84
+       Tub 0.256
+      Tube 0.36
+
+30
+13
+    Bottle 0.232
+    Bottle 0.32
+      Bowl 0.7
+       Box 0.352
+       Can 0.308
+    Carton 0.412
+       Cup 0.516
+       Mug 0.388
+  SprayCan 0.64
+       Tin 0.696
+       Tub 0.588
+       Tub 0.596
+      Tube 0.636
+
+31
+13
+    Bottle 0.928
+    Bottle 0.54
+      Bowl 0.656
+       Box 0.392
+       Can 0.696
+    Carton 0.748
+       Cup 0.76
+       Mug 0.456
+  SprayCan 0.984
+       Tin 0.388
+       Tub 0.952
+       Tub 0.904
+      Tube 0.208
+
+32
+13
+    Bottle 0.864
+    Bottle 0.384
+      Bowl 0.776
+       Box 0.98
+       Can 0.556
+    Carton 0.524
+       Cup 0.216
+       Mug 0.98
+  SprayCan 0.248
+       Tin 0.952
+       Tub 0.46
+       Tub 0.352
+      Tube 0.368
+
+33
+13
+    Bottle 0.992
+    Bottle 0.424
+      Bowl 0.896
+       Box 0.48
+       Can 0.252
+    Carton 0.504
+       Cup 0.552
+       Mug 0.436
+  SprayCan 0.476
+       Tin 0.436
+       Tub 0.276
+       Tub 0.928
+      Tube 0.824
+
+34
+13
+    Bottle 0.984
+    Bottle 0.756
+      Bowl 0.396
+       Box 0.372
+       Can 0.856
+    Carton 0.224
+       Cup 0.308
+       Mug 0.496
+  SprayCan 0.912
+       Tin 0.652
+       Tub 0.832
+       Tub 0.9
+      Tube 0.932
+
+35
+13
+    Bottle 0.428
+    Bottle 0.6
+      Bowl 0.204
+       Box 0.644
+       Can 0.728
+    Carton 0.48
+       Cup 0.948
+       Mug 0.328
+  SprayCan 0.824
+       Tin 0.532
+       Tub 0.996
+       Tub 0.668
+      Tube 0.764
+
+36
+13
+    Bottle 0.288
+    Bottle 0.624
+      Bowl 0.344
+       Box 0.428
+       Can 0.52
+    Carton 0.26
+       Cup 0.58
+       Mug 0.788
+  SprayCan 0.48
+       Tin 0.948
+       Tub 0.724
+       Tub 0.62
+      Tube 0.752
+
+37
+13
+    Bottle 0.572
+    Bottle 0.516
+      Bowl 0.824
+       Box 0.588
+       Can 0.208
+    Carton 0.312
+       Cup 0.244
+       Mug 0.596
+  SprayCan 0.484
+       Tin 0.712
+       Tub 0.92
+       Tub 0.784
+      Tube 0.444
+
+38
+13
+    Bottle 0.484
+    Bottle 0.616
+      Bowl 0.796
+       Box 0.54
+       Can 0.232
+    Carton 0.404
+       Cup 0.796
+       Mug 0.984
+  SprayCan 0.82
+       Tin 0.412
+       Tub 0.452
+       Tub 0.752
+      Tube 0.668
+
+39
+13
+    Bottle 0.968
+    Bottle 0.344
+      Bowl 0.228
+       Box 0.5
+       Can 0.288
+    Carton 0.472
+       Cup 0.804
+       Mug 0.436
+  SprayCan 0.536
+       Tin 0.896
+       Tub 0.484
+       Tub 0.916
+      Tube 0.324
+
+40
+13
+    Bottle 0.896
+    Bottle 0.872
+      Bowl 0.892
+       Box 0.492
+       Can 0.268
+    Carton 0.34
+       Cup 0.568
+       Mug 0.632
+  SprayCan 0.428
+       Tin 0.952
+       Tub 0.292
+       Tub 0.328
+      Tube 0.808
+
+41
+13
+    Bottle 0.336
+    Bottle 0.308
+      Bowl 0.78
+       Box 0.712
+       Can 0.5
+    Carton 0.6
+       Cup 0.972
+       Mug 0.892
+  SprayCan 0.564
+       Tin 0.696
+       Tub 0.884
+       Tub 0.656
+      Tube 0.46
+
+42
+13
+    Bottle 0.596
+    Bottle 0.692
+      Bowl 0.648
+       Box 0.96
+       Can 0.788
+    Carton 0.844
+       Cup 0.752
+       Mug 0.248
+  SprayCan 0.78
+       Tin 0.244
+       Tub 0.464
+       Tub 0.576
+      Tube 0.488
+
+43
+13
+    Bottle 0.472
+    Bottle 0.736
+      Bowl 0.872
+       Box 0.604
+       Can 0.4
+    Carton 0.804
+       Cup 0.776
+       Mug 0.264
+  SprayCan 0.772
+       Tin 0.348
+       Tub 0.868
+       Tub 0.868
+      Tube 0.876
+
+44
+13
+    Bottle 0.488
+    Bottle 0.248
+      Bowl 0.996
+       Box 0.652
+       Can 0.352
+    Carton 0.624
+       Cup 0.332
+       Mug 0.496
+  SprayCan 0.672
+       Tin 0.544
+       Tub 0.344
+       Tub 0.908
+      Tube 0.288
+
+45
+13
+    Bottle 0.476
+    Bottle 0.308
+      Bowl 0.908
+       Box 0.4
+       Can 0.664
+    Carton 0.216
+       Cup 0.612
+       Mug 0.976
+  SprayCan 0.824
+       Tin 0.544
+       Tub 0.748
+       Tub 0.36
+      Tube 0.516
+
+46
+13
+    Bottle 0.272
+    Bottle 0.968
+      Bowl 0.384
+       Box 0.76
+       Can 0.668
+    Carton 0.552
+       Cup 0.812
+       Mug 0.332
+  SprayCan 0.856
+       Tin 0.824
+       Tub 0.276
+       Tub 0.492
+      Tube 0.608
+
+47
+13
+    Bottle 0.364
+    Bottle 0.34
+      Bowl 0.976
+       Box 0.692
+       Can 0.432
+    Carton 0.648
+       Cup 0.236
+       Mug 0.736
+  SprayCan 0.38
+       Tin 0.672
+       Tub 0.52
+       Tub 0.512
+      Tube 0.888
+
+48
+13
+    Bottle 0.34
+    Bottle 0.356
+      Bowl 0.968
+       Box 0.74
+       Can 0.964
+    Carton 0.62
+       Cup 0.452
+       Mug 0.524
+  SprayCan 0.46
+       Tin 0.772
+       Tub 0.996
+       Tub 0.3
+      Tube 0.904
+
+49
+13
+    Bottle 0.228
+    Bottle 0.248
+      Bowl 0.788
+       Box 0.904
+       Can 0.776
+    Carton 0.588
+       Cup 0.568
+       Mug 0.42
+  SprayCan 0.292
+       Tin 0.396
+       Tub 0.628
+       Tub 0.328
+      Tube 0.264
+
+50
+13
+    Bottle 0.484
+    Bottle 0.464
+      Bowl 0.792
+       Box 0.324
+       Can 0.904
+    Carton 0.748
+       Cup 0.948
+       Mug 0.788
+  SprayCan 0.844
+       Tin 0.972
+       Tub 0.532
+       Tub 0.84
+      Tube 0.708
+
+51
+13
+    Bottle 0.952
+    Bottle 0.636
+      Bowl 0.66
+       Box 0.644
+       Can 0.2
+    Carton 0.864
+       Cup 0.356
+       Mug 0.632
+  SprayCan 0.544
+       Tin 0.384
+       Tub 0.364
+       Tub 0.84
+      Tube 0.248
+
+52
+13
+    Bottle 0.748
+    Bottle 0.224
+      Bowl 0.78
+       Box 0.312
+       Can 0.944
+    Carton 0.42
+       Cup 0.812
+       Mug 0.844
+  SprayCan 0.5
+       Tin 0.34
+       Tub 0.684
+       Tub 0.392
+      Tube 0.744
+
+53
+13
+    Bottle 0.928
+    Bottle 0.456
+      Bowl 0.516
+       Box 0.236
+       Can 0.532
+    Carton 0.908
+       Cup 0.468
+       Mug 0.468
+  SprayCan 0.476
+       Tin 0.48
+       Tub 0.568
+       Tub 0.256
+      Tube 0.984
+
+54
+13
+    Bottle 0.304
+    Bottle 0.204
+      Bowl 0.936
+       Box 0.564
+       Can 0.484
+    Carton 0.52
+       Cup 0.968
+       Mug 0.864
+  SprayCan 0.924
+       Tin 0.98
+       Tub 0.74
+       Tub 0.736
+      Tube 0.964
+
+55
+13
+    Bottle 0.688
+    Bottle 0.5
+      Bowl 0.424
+       Box 0.84
+       Can 0.46
+    Carton 0.784
+       Cup 0.208
+       Mug 0.632
+  SprayCan 0.692
+       Tin 0.432
+       Tub 0.704
+       Tub 0.6
+      Tube 0.596
+
+56
+13
+    Bottle 0.248
+    Bottle 0.9
+      Bowl 0.768
+       Box 0.648
+       Can 0.888
+    Carton 0.56
+       Cup 0.428
+       Mug 0.788
+  SprayCan 0.872
+       Tin 0.476
+       Tub 0.788
+       Tub 0.564
+      Tube 0.788
+
+57
+13
+    Bottle 0.584
+    Bottle 0.676
+      Bowl 0.812
+       Box 0.42
+       Can 0.508
+    Carton 0.784
+       Cup 0.584
+       Mug 0.464
+  SprayCan 0.652
+       Tin 0.216
+       Tub 0.384
+       Tub 0.46
+      Tube 0.888
+
+58
+13
+    Bottle 0.528
+    Bottle 0.888
+      Bowl 0.908
+       Box 0.66
+       Can 0.832
+    Carton 0.676
+       Cup 0.776
+       Mug 0.588
+  SprayCan 0.948
+       Tin 0.22
+       Tub 0.452
+       Tub 0.932
+      Tube 0.22
+
+59
+13
+    Bottle 0.668
+    Bottle 0.348
+      Bowl 0.816
+       Box 0.748
+       Can 0.388
+    Carton 0.588
+       Cup 0.8
+       Mug 0.276
+  SprayCan 0.236
+       Tin 0.968
+       Tub 0.38
+       Tub 0.22
+      Tube 0.836
+
+60
+13
+    Bottle 0.952
+    Bottle 0.972
+      Bowl 0.792
+       Box 0.696
+       Can 0.356
+    Carton 0.9
+       Cup 0.38
+       Mug 0.6
+  SprayCan 0.736
+       Tin 0.564
+       Tub 0.564
+       Tub 0.28
+      Tube 0.956
+
+61
+13
+    Bottle 0.516
+    Bottle 0.76
+      Bowl 0.732
+       Box 0.608
+       Can 0.56
+    Carton 0.716
+       Cup 0.336
+       Mug 0.828
+  SprayCan 0.6
+       Tin 0.488
+       Tub 0.68
+       Tub 0.2
+      Tube 0.552
+
+62
+13
+    Bottle 0.448
+    Bottle 0.264
+      Bowl 0.744
+       Box 0.324
+       Can 0.416
+    Carton 0.336
+       Cup 0.22
+       Mug 0.76
+  SprayCan 0.204
+       Tin 0.204
+       Tub 0.88
+       Tub 0.9
+      Tube 0.884
+
+63
+13
+    Bottle 0.508
+    Bottle 0.816
+      Bowl 0.504
+       Box 0.776
+       Can 0.588
+    Carton 0.428
+       Cup 0.364
+       Mug 0.84
+  SprayCan 0.248
+       Tin 0.756
+       Tub 0.96
+       Tub 0.644
+      Tube 0.484
+
+64
+13
+    Bottle 0.704
+    Bottle 0.332
+      Bowl 0.752
+       Box 0.388
+       Can 0.624
+    Carton 0.412
+       Cup 0.272
+       Mug 0.304
+  SprayCan 0.404
+       Tin 0.656
+       Tub 0.74
+       Tub 0.992
+      Tube 0.508
+
+65
+13
+    Bottle 0.552
+    Bottle 0.256
+      Bowl 0.944
+       Box 0.52
+       Can 0.932
+    Carton 0.464
+       Cup 0.472
+       Mug 0.264
+  SprayCan 0.796
+       Tin 0.788
+       Tub 0.852
+       Tub 0.764
+      Tube 0.924
+
+66
+13
+    Bottle 0.676
+    Bottle 0.508
+      Bowl 0.96
+       Box 0.596
+       Can 0.292
+    Carton 0.244
+       Cup 0.884
+       Mug 0.424
+  SprayCan 0.48
+       Tin 0.244
+       Tub 0.372
+       Tub 0.964
+      Tube 0.74
+
+67
+13
+    Bottle 0.84
+    Bottle 0.344
+      Bowl 0.612
+       Box 0.808
+       Can 0.348
+    Carton 0.236
+       Cup 0.416
+       Mug 0.312
+  SprayCan 0.624
+       Tin 0.4
+       Tub 0.608
+       Tub 0.212
+      Tube 0.744
+
+68
+13
+    Bottle 0.896
+    Bottle 0.652
+      Bowl 0.352
+       Box 0.204
+       Can 0.656
+    Carton 0.448
+       Cup 0.42
+       Mug 0.792
+  SprayCan 0.692
+       Tin 0.704
+       Tub 0.288
+       Tub 0.4
+      Tube 0.744
+
+69
+13
+    Bottle 0.916
+    Bottle 0.9
+      Bowl 0.988
+       Box 0.82
+       Can 0.888
+    Carton 0.48
+       Cup 0.752
+       Mug 0.248
+  SprayCan 0.856
+       Tin 0.864
+       Tub 0.28
+       Tub 0.216
+      Tube 0.46
+
+70
+13
+    Bottle 0.98
+    Bottle 0.944
+      Bowl 0.484
+       Box 0.9
+       Can 0.976
+    Carton 0.204
+       Cup 0.724
+       Mug 0.48
+  SprayCan 0.888
+       Tin 0.904
+       Tub 0.704
+       Tub 0.444
+      Tube 0.292
+
+71
+13
+    Bottle 0.512
+    Bottle 0.84
+      Bowl 0.656
+       Box 0.392
+       Can 0.46
+    Carton 0.256
+       Cup 0.38
+       Mug 0.296
+  SprayCan 0.916
+       Tin 0.968
+       Tub 0.288
+       Tub 0.428
+      Tube 0.728
+
+72
+13
+    Bottle 0.744
+    Bottle 0.744
+      Bowl 0.58
+       Box 0.524
+       Can 0.6
+    Carton 0.888
+       Cup 0.748
+       Mug 0.408
+  SprayCan 0.464
+       Tin 0.504
+       Tub 0.704
+       Tub 0.212
+      Tube 0.672
+
+73
+13
+    Bottle 0.408
+    Bottle 0.5
+      Bowl 0.212
+       Box 0.812
+       Can 0.292
+    Carton 0.2
+       Cup 0.256
+       Mug 0.444
+  SprayCan 0.98
+       Tin 0.992
+       Tub 0.352
+       Tub 0.376
+      Tube 0.808
+
+74
+13
+    Bottle 0.652
+    Bottle 0.74
+      Bowl 0.916
+       Box 0.776
+       Can 0.764
+    Carton 0.364
+       Cup 0.74
+       Mug 0.316
+  SprayCan 0.804
+       Tin 0.788
+       Tub 0.22
+       Tub 0.84
+      Tube 0.748
+
+75
+13
+    Bottle 0.776
+    Bottle 0.216
+      Bowl 0.716
+       Box 0.604
+       Can 0.304
+    Carton 0.636
+       Cup 0.708
+       Mug 0.256
+  SprayCan 0.964
+       Tin 0.804
+       Tub 0.32
+       Tub 0.764
+      Tube 0.4
+
+76
+13
+    Bottle 0.476
+    Bottle 0.348
+      Bowl 0.392
+       Box 0.688
+       Can 0.68
+    Carton 0.608
+       Cup 0.508
+       Mug 0.952
+  SprayCan 0.384
+       Tin 0.948
+       Tub 0.224
+       Tub 0.744
+      Tube 0.564
+
+77
+13
+    Bottle 0.908
+    Bottle 0.968
+      Bowl 0.752
+       Box 0.296
+       Can 0.996
+    Carton 0.208
+       Cup 0.892
+       Mug 0.672
+  SprayCan 0.552
+       Tin 0.296
+       Tub 0.732
+       Tub 0.2
+      Tube 0.616
+
+78
+13
+    Bottle 0.52
+    Bottle 0.396
+      Bowl 0.628
+       Box 0.584
+       Can 0.892
+    Carton 0.388
+       Cup 0.216
+       Mug 0.388
+  SprayCan 0.34
+       Tin 0.948
+       Tub 0.408
+       Tub 0.988
+      Tube 0.52
+
+79
+13
+    Bottle 0.756
+    Bottle 0.716
+      Bowl 0.54
+       Box 0.544
+       Can 0.396
+    Carton 0.912
+       Cup 0.68
+       Mug 0.244
+  SprayCan 0.36
+       Tin 0.348
+       Tub 0.396
+       Tub 0.428
+      Tube 0.86
+
+

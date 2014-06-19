@@ -1,0 +1,38 @@
+======================================================================================
+				TEST FRAMEWORK SET UP
+======================================================================================
+
+o For each intention from each group of intentions (4 groups in total), 20  
+  scenes are used for evaluation.
+
+o The groups are:
+	o Group 1:
+		- Grasp-Box, Open-Box, Grasp-Carton, Open-Carton, Pour-from-Carton
+
+	o Group 2:
+		- Grasp-Can, Move-Can, Pour-from-Can, Drink-from-Cup
+
+	o Group 3:
+		- Grasp-Carton, Move-Carton, Pour-from-Carton, Drink-from-Cup
+
+	o Group 4:
+		- Grasp-Bottle, Move-Bottle, Pour-from-Bottle, Drink-from-Cup
+
+=======================================================================================
+
+o Table of Test Scenes
+_______________________________________________________________________________________
+
+		Position Change		Simultaneous Change		Group Learning
+Group
+
+1		100 Scenes		100 Scenes			0
+
+2		80 Scenes		80 Scenes			50 Scenes
+
+3		80 Scenes		80 Scenes			0
+
+4		80 Scenes		80 Scenes			0
+_______________________________________________________________________________________
+TOTAL		340 Scenes		340 Scenes			50 Scenes	
+_______________________________________________________________________________________

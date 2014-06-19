@@ -1,0 +1,26 @@
+# File comment
+// Number of total intentions being tested
+
+// Number of sessions (number of scene maps)
+// Index of scene map	Length of scene map
+// Object category 	Distance from camera
+.
+.
+.
+// Object category	Distance from camera for nth obj
+
+// Number of sessions (number of scene maps)
+// Index of scene map	Length of scene map
+// Object category 	Distance from camera
+.
+.
+.
+// Object category	Distance from camera for nth obj
+
+// Number of sessions (number of scene maps)
+// Index of scene map	Length of scene map
+// Object category 	Distance from camera
+.
+.
+.
+// Object category	Distance from camera for nth obj
