@@ -31,8 +31,8 @@ using namespace oar;
 /**
  * Randomly generate a complete scene 
  */
-multimap<string, double> generateCompleteScene() {
-	multimap<string, double> sceneObjects;
+ObjectDistanceMap generateCompleteScene() {
+	ObjectDistanceMap sceneObjects;
 	string names[11] = {"Bottle", "Bowl", "Box", "Can", "Carton", "Cup", "Mug", "SprayCan", 
 						"Tin", "Tube", "Tub"};
 	int categoryCount[11] = {0};
@@ -69,6 +69,9 @@ multimap<string, double> generateCompleteScene() {
 	return sceneObjects;
 }
 
+/**
+ * An example of how to use the Object-Action Recognizer for Human Intention Recognition
+ */
 int main(int argc, char *argv[]) {
 	srand(static_cast<unsigned int>(time(NULL)));
 	string answer ("No");
@@ -93,19 +96,26 @@ int main(int argc, char *argv[]) {
 		/**
 		 * Randomly generate a scene with objects and their distances from the camera
 		 */
-		multimap<string, double> sceneObjects = generateCompleteScene();
+		ObjectDistanceMap sceneObjects = generateCompleteScene();
 
-		//cout << ">> Number of scene objects: " << sceneObjects.size() << endl;
-		//for (multimap<string, double>::iterator iter = sceneObjects.begin(); iter != sceneObjects.end(); ++iter) {
-			//std::cout << std::setw(15) << iter->first << "\t      \t--> " << iter->second << endl;
-		//}
-				
+
 		/**
-		 * Construct the factor graph by initializing meta data variables, sort objects according
+		 * Initialize the object-action recognizer
+		 */
+		ObjectActionRecognizer objectActionRecog("ObjectActionMap.map", learningRateToUse);
+
+
+
+		/**
+		 * Construct the network by initializing meta data variables, sort objects according
 		 * to their distance from the camera, and create the nodes of the network
 		 */
-		ObjectActionRecognizer objectActionRecog("SubsetTrainingMap.map", learningRateToUse);
 		objectActionRecog.constructNetwork(sceneObjects);
+
+
+		/**
+		 * Generate the query set to be used
+		 */
 		objectActionRecog.generateMarkovBasedQuerySet();
 			
 		int numInteractions = 0;
@@ -119,9 +129,6 @@ int main(int argc, char *argv[]) {
 				break;
 			}
 			
-			//for (size_t q = 0; q < objectActionRecog.getQueries().size(); q++) {
-				//cout << q + 1 << ":\t" << objectActionRecog.getQueries()[q].question << ":\t " << std::setw(7)<< std::fixed << std::setprecision(8)<< objectActionRecog.getQueries()[q].score << endl;
-			//}
 			cout << objectActionRecog.getCurrentQuery().question << ": ";
 
 			int num;
@@ -133,16 +140,16 @@ int main(int argc, char *argv[]) {
 		} while (!objectActionRecog.evaluate(choice));
 
 		printf("+---------------------------------------+\n");
+
 		OARUtils::changeTextColor(2);
 		printf("  Session: %2d ==> [ %2d ] interactions \n", sessionCount, numInteractions);
 		OARUtils::resetTextColor();
+
 		printf("+---------------------------------------+\n");
 		interactionCount.push_back(numInteractions);
 				
 		
 		objectActionRecog.writeTemplates();
-
-
 		sceneObjects.clear();			
 	
 	} while (sessionCount < numSessionsToLearn);
@@ -168,8 +175,8 @@ int main(int argc, char *argv[]) {
 	
 	cout << "Done!\n";
 	cin.get();
-	cin.get();
 	
+
     return 0;
 }
 

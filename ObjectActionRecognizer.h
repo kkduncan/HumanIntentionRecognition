@@ -57,10 +57,9 @@ namespace oar {
 /**
  * \brief Class to perform scene-dependent human intention recognition
  * 
- * Determines which object that is most likely to be manipulated and the
- * action most likely to be perform on the object using a graphical model.
+ * Determines the object that is most likely to be manipulated and the
+ * action most likely to be performed on the object using a Markov Networks.
  *
- * This
  */
 class ObjectActionRecognizer {
 

@@ -183,6 +183,7 @@ void ObjectActionRecognizer::applyTemplates() {
 	/*
 	 * Read object-action template map
 	 */
+	// TODO: If file is not available, use defaults
 	objectActionMap.readMap(objectActionMapFileName);
 		
 	for (size_t i = 0; i < NUM_OBJ_CATEGORIES; i++) {
